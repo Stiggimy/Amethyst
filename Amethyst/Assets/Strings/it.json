@@ -1653,7 +1653,7 @@
     },
     {
       "id": "/CrashHandler/Content/Recovery",
-      "translation": "Sembra che abbiate eseguito manualmente il Crash Handler. Cosa volevi fare?\n\nMentre sei ancora qui, considera la possibilità di fare una donazione alla nostra OpenCollective, in modo da poter mantenere tutto questo materiale attivo e funzionante. Oh, e grazie per aver usato Amethyst!",
+      "translation": "Sembra che il Crash Handler sia stato eseguito manualmente. Cosa volevi fare?\n\nMentre sei qui, considera la possibilità di fare una donazione alla nostra OpenCollective, in modo da poter mantenere tutto questo materiale attivo e funzionante. Oh, e grazie per aver usato Amethyst!",
       "translatorComment": ""
     },
     {
@@ -1798,12 +1798,12 @@
     },
     {
       "id": "/NUX/Prev",
-      "translation": "Vai indietro",
+      "translation": "Precedente",
       "translatorComment": ""
     },
     {
       "id": "/NUX/Next",
-      "translation": "Prossimo",
+      "translation": "Successivo",
       "translatorComment": ""
     },
     {
