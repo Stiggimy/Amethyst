@@ -373,12 +373,12 @@
     },
     {
       "id": "/GeneralPage/Captions/OtherErrors/Line1",
-      "translation": "Hai errori del dispositivo aggiuntivi!",
+      "translation": "Alcuni dispositivi aggiuntivi hanno riscontrato errori!",
       "translatorComment": ""
     },
     {
       "id": "/GeneralPage/Captions/OtherErrors/Line2",
-      "translation": "Clicca qui per ispezionarli ora",
+      "translation": "Clicca qui per visualizzarli",
       "translatorComment": ""
     },
     {
@@ -778,12 +778,12 @@
     },
     {
       "id": "/SettingsLearn/Captions/Filters/Explanations/EKF",
-      "translation": "Latenza maggiore, ma risultati molto puliti. Tutti gli scatti sono rimossi,\ni movimenti veloci sono comunque responsivi perché il filtro è predittivo.",
+      "translation": "Latenza maggiore, ma risultati molto puliti. Tutti gli scatti sono rimossi,\ni movimenti veloci sono responsivi perché il filtro è predittivo.",
       "translatorComment": ""
     },
     {
       "id": "/SettingsLearn/Captions/Filters/Explanations/LERP",
-      "translation": "Latenza minore, fa sembrare che tutti i movimenti siano più veloci rispetto a ciò che il sensore è capace di rilevare.\nGli scatti sono ancora evidenti.",
+      "translation": "Latenza minore, fa sembrare che i movimenti siano più veloci rispetto a ciò che il sensore è capace di rilevare.\nGli scatti sono ancora evidenti.",
       "translatorComment": ""
     },
     {
@@ -823,12 +823,12 @@
     },
     {
       "id": "/SettingsLearn/Captions/Orientation/Explanations/Default",
-      "translation": "Questa impostazione potrebbe essere instabile per alcuni utenti di Xbox One Kinect, provate la rotazione calcolata tramite software\nse fosse il caso. Questa è la rotazione dei giunti supposta dall'SDK del Kinect basata sulla posizione\ndi ogni giunto nella catena. Immagina di attaccare delle frecce su ogni arto del tuo corpo puntanti\nverso le tue estremità. Per i tracker dei piedi, i comportamenti divergono tra i modelli di Kinect.\nSu Xbox One, la rotazione è basata sulla punta del piede, ciò significa che i tuoi piedi possono girarsi.\nSu Xbox 360, la rotazione è basata sulle sole anche, quindi non c'è rotazione dei piedi.",
+      "translation": "Questa impostazione potrebbe essere instabile per alcuni utenti di Xbox One Kinect, provate la rotazione calcolata tramite software se fosse il caso.\nQuesta è la rotazione dei giunti supposta dall'SDK del Kinect basata sulla posizione\ndi ogni giunto. Immagina di attaccare delle frecce su ogni arto del tuo corpo puntanti\nverso le tue estremità. Per i tracker dei piedi, i comportamenti divergono tra i modelli di Kinect.\nSu Xbox One, la rotazione è basata sulla punta del piede, ciò significa che i tuoi piedi possono girarsi.\nSu Xbox 360, la rotazione è basata solo sulle anche, quindi non c'è rotazione dei piedi.",
       "translatorComment": ""
     },
     {
       "id": "/SettingsLearn/Captions/Orientation/Explanations/HMD",
-      "translation": "I tracker seguiranno la direzione del visore rispetto all'asse Y (rotazione)\nMa non ruoteranno sulle altre due assi.",
+      "translation": "I tracker seguiranno la direzione del visore rispetto all'asse Y (rotazione)\nMa non ruoteranno sugli altri due assi.",
       "translatorComment": ""
     },
     {
@@ -848,7 +848,7 @@
     },
     {
       "id": "/SettingsLearn/Captions/Orientation/Introduction",
-      "translation": "Tutte le impostazioni di rotazione vengono influenzate dai tracker specchiati (scheletro girato) quando è abilitato.",
+      "translation": "Tutte le impostazioni di rotazione vengono influenzate dai tracker specchiati (capovolgimento dello scheletro) quando è abilitato.",
       "translatorComment": ""
     },
     {
@@ -878,12 +878,12 @@
     },
     {
       "id": "/SettingsLearn/Captions/TrackerConfig",
-      "translation": "Amethyst supporta fino a 7 tracker di base. Tracker aggiuntivi possono essere (dis)attivati cliccando l'icona dell'ingranaggio.\nOgni tracker o gruppo di tracker contiene impostazioni per regolare come la rotazione e il filtraggio sono gestiti per tracker particolari.\nCiò permette ad esempio di mettere un filtro pesante sui piedi e busto se ci si siede\nspesso, mentre si usa un'impostazione più veloce per i gomiti così da farli seguire le tue mani più accuratamente.",
+      "translation": "Amethyst supporta fino a 7 tracker di base. Tracker aggiuntivi possono essere (dis)attivati cliccando l'icona dell'ingranaggio.\nPuoi impostare come viene gestita la rotazione e il filtraggio di ogni tracker o gruppo di tracker.\nCiò permette ad esempio di mettere un filtro più pesante sui tracker dei piedi e del busto se ci si siede\nspesso, mentre si può usare un filtro più leggero per i tracker dei gomiti così seguiranno le tue mani più accuratamente.",
       "translatorComment": ""
     },
     {
       "id": "/SettingsLearn/Captions/TrackerConfigNote",
-      "translation": "Nota: Alcune di queste impostazioni sono rilevanti esclusivamente quando si usa un Kinect.",
+      "translation": "Nota: Alcune di queste impostazioni hanno effetto esclusivamente quando si usa un Kinect.",
       "translatorComment": ""
     },
     {
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "/DevicesPage/Devices/Reload/Content",
-      "translation": "Un nuovo plugin del dispositivo plugin è stato aggiunto o rimosso.\nAmethyst deve essere riavviato in modo tale che questi cambiamenti abbiano effetto.\n\nRiavviare Amethyst ora?",
+      "translation": "Un nuovo plugin del dispositivo è stato aggiunto o rimosso.\nAmethyst deve essere riavviato in modo tale che questi cambiamenti abbiano effetto.\n\nRiavviare Amethyst ora?",
       "translatorComment": ""
     },
     {
@@ -1128,7 +1128,7 @@
     },
     {
       "id": "/DevicesPage/Devices/Manager/Labels/Blocked",
-      "translation": "Il plugin del dispositivo ha riscontrato un errore durante il caricamento, rimarrà bloccato e disabilitato fino a quando l'errore persiste. Controlla il motivo qui sotto e leggi i log per ulteriori informazioni.",
+      "translation": "Il plugin del dispositivo ha riscontrato un errore durante il caricamento, rimarrà bloccato e disabilitato fino a quando l'errore persiste. Si può controllare il motivo qui sotto e leggere i log per ulteriori informazioni.",
       "translatorComment": ""
     },
     {
